@@ -7,3 +7,8 @@ Kelas : C
 
 Praktikum Algoritma dan Struktur Data.<br>
 Perkuliahan Yang membahas dan mempelajari tentang algoritma dan Struktur data berbasis Python.<br>
+
+Pada Kuliah laporan ini terdapat beberapa folder yaitu :<br>
+<ol>
+  <li>MODUL-2 : Review dan SOAL Python untuk Mahasiswa</li>
+</ol> 
