@@ -6,5 +6,5 @@ Credit
 Bintang Citra Kusumaatmaja
 Kusumachan404@gmail.com
 
-<h4 font-color="red">DIPECAH, Karena Tidak memungkinkan untuk dijadikan 1 file</h4>
+<h4 font-colour="red">DIPECAH, Karena Tidak memungkinkan untuk dijadikan 1 file</h4>
 </pre>
