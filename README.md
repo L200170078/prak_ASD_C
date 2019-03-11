@@ -10,5 +10,6 @@ Perkuliahan Yang membahas dan mempelajari tentang algoritma dan Struktur data be
 
 Pada Kuliah laporan ini terdapat beberapa folder yaitu :<br>
 <ol>
-  <li>MODUL-2 : Review dan SOAL Python untuk Mahasiswa</li>
+  <li>MODUL-1 : Review dan SOAL Python untuk Mahasiswa MODUL I</li>
+  <li>MODUL-2 : Review dan SOAL Python untuk Mahasiswa MODUL II</li>
 </ol> 
