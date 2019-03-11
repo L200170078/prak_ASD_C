@@ -5,4 +5,6 @@ No1-7.py
 Credit
 Bintang Citra Kusumaatmaja
 Kusumachan404@gmail.com
+
+<h4 font-color="red">DIPECAH, Karena Tidak memungkinkan untuk dijadikan 1 file</h4>
 </pre>
