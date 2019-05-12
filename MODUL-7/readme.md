@@ -13,7 +13,20 @@
 </p>
 <p>Agar mudah di jalankan dan mudah untuk di kirimkan, jawaban modul ini sengaja saya buat tidak menggunkan file mentah html/txt akan tetapi langsung scraping ke website target. Oleh karena itu Ada beberapa Requirement untuk menjalankan Program ini yakni :</p>
 <ol>
-	<li>Python</li>
+	<li>Python 3</li>
 	<li>Pip python</li>
 	<li>BeautifulSoup Library</li>
+	<img src="SCREENSHOT/cover.PNG" alt="">
+	<li>Koneksi internet</li>
+</ol>
+<p>Setelah Menyiapkan Requirement diatas,  setalah di eksekusi akan menghasilkan seperti berikut:</p>
+<ol>
+	<li>SCREENSHOT SEBAGAIN NO 1</li>
+	<img src="SCREENSHOT/no1.PNG" alt="">
+	<li>SCREENSHOT SEBAGAIN NO 2</li>
+	<img src="SCREENSHOT/no2.PNG" alt="">
+	<li>SCREENSHOT SEBAGAIN NO 4</li>
+	<img src="SCREENSHOT/no3.PNG" alt="">
+	<li>SCREENSHOT SEBAGAIN NO 5</li>
+	<img src="SCREENSHOT/no4.PNG" alt="">
 </ol>
