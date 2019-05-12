@@ -3,6 +3,7 @@
 	Nim   : L200170078
 	Kelas : C
 </pre>
+<img src="SCREENSHOT/cover.png" alt="">
 <p>
 	Soal Mahasiswa Praktikum Algoritma dan Struktur Data MODUL 7 Universitas Muhammadiyah Surakarta. Dengan Materi :
 </p>
@@ -16,7 +17,6 @@
 	<li>Python 3</li>
 	<li>Pip python</li>
 	<li>BeautifulSoup Library</li>
-	<img src="SCREENSHOT/cover.PNG" alt="">
 	<li>Koneksi internet</li>
 </ol>
 <p>Setelah Menyiapkan Requirement diatas,  setalah di eksekusi akan menghasilkan seperti berikut:</p>
