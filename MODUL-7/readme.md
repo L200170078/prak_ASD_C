@@ -3,7 +3,9 @@
 	Nim   : L200170078
 	Kelas : C
 </pre>
-<img src="SCREENSHOT/cover.png" alt="">
+<center>
+<img src="SCREENSHOT/cover.png" alt="" width="200" height="200">
+</center>
 <p>
 	Soal Mahasiswa Praktikum Algoritma dan Struktur Data MODUL 7 Universitas Muhammadiyah Surakarta. Dengan Materi :
 </p>
