@@ -16,7 +16,6 @@ Pada Kuliah laporan ini terdapat beberapa folder yaitu :<br>
   <li>MODUL-4 : Review dan SOAL Python untuk Mahasiswa MODUL IV</li>
   <li>MODUL-5 : Review dan SOAL Python untuk Mahasiswa MODUL V</li>
   <li>MODUL-6 : Review dan SOAL Python untuk Mahasiswa MODUL VI</li>
-  <li>MODUL-6 : Review dan SOAL Python untuk Mahasiswa MODUL VII</li>
   <li>MODUL-7 : Review dan SOAL Python untuk Mahasiswa MODUL VII</li>
   <li>MODUL-8 : Review dan SOAL Python untuk Mahasiswa MODUL VII</li>
   <li>MODUL-9 : Review dan SOAL Python untuk Mahasiswa MODUL VII</li>
